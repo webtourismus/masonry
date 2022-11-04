@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/masonry",
+    "description": "Mirror of https://www.npmjs.com/package/masonry-layout as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "https://masonry.desandro.com/"
+}
